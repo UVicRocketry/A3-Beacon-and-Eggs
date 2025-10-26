@@ -1,0 +1,66 @@
+# macOS system files
+.DS_Store
+
+# Backup and autosave files
+*~
+*.bak
+*.bck
+*.tmp
+*.autosave
+_autosave-*
+
+# Netlist and intermediate files
+*.net
+*.xml
+*.dcm
+*.erc
+*.kicad_prl
+*.kicad_pcb-bak
+*-bak.kicad_pcb
+*-backups/
+
+# KiCad 6/7 specific temp and cache
+*.kicad_sch-bak
+*.kicad_pcb-bak
+*.kicad_prl
+*.kicad_7.bak
+sym-lib-table-bak
+fp-lib-table-bak
+
+# Output files
+*.gbr
+*.gtp
+*.gbp
+*.gts
+*.gbs
+*.gto
+*.gbo
+*.drl
+*.map
+*.pos
+*.csv
+*.zip
+*.pdf
+*.step
+*.stp
+
+# Simulation files
+*.cir
+*.out
+*.sp
+*.raw
+*.log
+
+# 3D viewer cache
+3d/
+
+# Manufacturing or export folders
+exports/
+fabrication/
+output/
+gerbers/
+plots/
+
+# User-specific settings
+*.bak~
+.cache/

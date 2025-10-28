@@ -1,0 +1,51 @@
+G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,(6.0.2-0)*
+G04 #@! TF.CreationDate,2025-10-28T11:30:20-07:00*
+G04 #@! TF.ProjectId,Beacon_BNC_PCB,42656163-6f6e-45f4-924e-435f5043422e,V1.0*
+G04 #@! TF.SameCoordinates,Original*
+G04 #@! TF.FileFunction,Copper,L1,Top*
+G04 #@! TF.FilePolarity,Positive*
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW (6.0.2-0)) date 2025-10-28 11:30:20*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+G04 #@! TA.AperFunction,ConnectorPad*
+%ADD10C,5.600000*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,ComponentPad*
+%ADD11C,3.600000*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,ComponentPad*
+%ADD12C,5.600000*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,ComponentPad*
+%ADD13O,1.600000X2.500000*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,ComponentPad*
+%ADD14O,3.500000X7.000000*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,Conductor*
+%ADD15C,0.360000*%
+G04 #@! TD*
+G04 APERTURE END LIST*
+D10*
+X163000000Y-81173200D03*
+D11*
+X163000000Y-81173200D03*
+X138970000Y-81173200D03*
+D12*
+X138970000Y-81173200D03*
+D13*
+X151000000Y-81173200D03*
+D14*
+X145920000Y-86253200D03*
+D13*
+X153540000Y-81173200D03*
+D14*
+X156080000Y-86253200D03*
+D15*
+X151000000Y-81173200D02*
+X138970000Y-81173200D01*
+M02*

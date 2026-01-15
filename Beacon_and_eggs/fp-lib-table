@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Project KiCad Library")(type "KiCad")(uri "${KIPRJMOD}/Project KiCad Library.pretty")(options "")(descr ""))
+  (lib (name "VHF_UHF_Modules")(type "KiCad")(uri "${KIPRJMOD}/KiCad Libraries/kicad-VHF-UHF-modules-main/VHF_UHF_Modules.pretty")(options "")(descr ""))
+)

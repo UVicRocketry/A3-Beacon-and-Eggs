@@ -6995,7 +6995,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" ""
 			(at 109.22 119.6848 0)
 			(effects
 				(font
@@ -7266,7 +7266,7 @@
 				)
 			)
 		)
-		(property "Footprint" "2025_26-UVR-Beacon:MSOP8_MC_MCH"
+		(property "Footprint" "MSOP8_MC_MCH"
 			(at 212.598 118.872 0)
 			(effects
 				(font
@@ -7552,7 +7552,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
+		(property "Footprint" ""
 			(at 28.448 80.01 90)
 			(effects
 				(font
@@ -7686,7 +7686,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_USB:USB_C_Receptacle_HCTL_HC-TYPE-C-16P-01A"
+		(property "Footprint" ""
 			(at 34.29 134.62 0)
 			(effects
 				(font
@@ -7930,7 +7930,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
+		(property "Footprint" ""
 			(at 31.75 41.148 90)
 			(effects
 				(font
@@ -8063,7 +8063,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" ""
 			(at 148.59 34.5948 0)
 			(effects
 				(font
@@ -8540,7 +8540,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
+		(property "Footprint" ""
 			(at 52.07 130.048 90)
 			(effects
 				(font
@@ -8740,7 +8740,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" ""
 			(at 40.64 65.0748 0)
 			(effects
 				(font
@@ -8924,8 +8924,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "65baf2d3-e272-4531-a6ef-63281f4ef363")
-		(property "Reference" "C13"
-			(at 215.9 101.5999 0)
+		(property "Reference" "C19"
+			(at 215.9 100.3299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8979,7 +8979,7 @@
 		(instances
 			(project "Beacon_and_eggs"
 				(path "/8792c0a0-2ad2-47f4-a55d-c9a646f00347"
-					(reference "C13")
+					(reference "C19")
 					(unit 1)
 				)
 			)
@@ -9012,7 +9012,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
+		(property "Footprint" ""
 			(at 24.638 80.01 90)
 			(effects
 				(font
@@ -9241,7 +9241,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "74b45b35-9ef0-41b9-9665-adad6e2599a5")
-		(property "Reference" "C15"
+		(property "Reference" "C20"
 			(at 204.47 90.1699 0)
 			(effects
 				(font
@@ -9296,7 +9296,7 @@
 		(instances
 			(project "Beacon_and_eggs"
 				(path "/8792c0a0-2ad2-47f4-a55d-c9a646f00347"
-					(reference "C15")
+					(reference "C20")
 					(unit 1)
 				)
 			)
@@ -9327,7 +9327,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" ""
 			(at 161.29 34.5948 0)
 			(effects
 				(font
@@ -9642,8 +9642,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7fa90e3d-507c-4125-a615-d901b4aa212b")
-		(property "Reference" "C16"
-			(at 214.63 147.3199 0)
+		(property "Reference" "C22"
+			(at 214.63 146.0499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9697,7 +9697,7 @@
 		(instances
 			(project "Beacon_and_eggs"
 				(path "/8792c0a0-2ad2-47f4-a55d-c9a646f00347"
-					(reference "C16")
+					(reference "C22")
 					(unit 1)
 				)
 			)
@@ -9930,7 +9930,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" ""
 			(at 35.56 47.2948 0)
 			(effects
 				(font
@@ -9982,7 +9982,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8926dfb2-d302-463d-8ef7-92200da60b8f")
-		(property "Reference" "C18"
+		(property "Reference" "C21"
 			(at 205.74 135.8899 0)
 			(effects
 				(font
@@ -10037,7 +10037,7 @@
 		(instances
 			(project "Beacon_and_eggs"
 				(path "/8792c0a0-2ad2-47f4-a55d-c9a646f00347"
-					(reference "C18")
+					(reference "C21")
 					(unit 1)
 				)
 			)
@@ -10068,7 +10068,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
+		(property "Footprint" ""
 			(at 64.008 30.48 90)
 			(effects
 				(font
@@ -10135,7 +10135,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" ""
 			(at 148.59 23.1648 0)
 			(effects
 				(font
@@ -10205,7 +10205,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
+		(property "Footprint" ""
 			(at 108.712 170.18 90)
 			(effects
 				(font
@@ -10257,7 +10257,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8e6d88db-591b-4f03-81d8-a2a81a1fd35e")
-		(property "Reference" "C17"
+		(property "Reference" "C23"
 			(at 273.05 137.1599 0)
 			(effects
 				(font
@@ -10311,7 +10311,7 @@
 		(instances
 			(project "Beacon_and_eggs"
 				(path "/8792c0a0-2ad2-47f4-a55d-c9a646f00347"
-					(reference "C17")
+					(reference "C23")
 					(unit 1)
 				)
 			)
@@ -10342,7 +10342,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
+		(property "Footprint" ""
 			(at 52.07 124.968 90)
 			(effects
 				(font
@@ -10475,7 +10475,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" ""
 			(at 102.87 79.0448 0)
 			(effects
 				(font
@@ -10542,7 +10542,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" ""
 			(at 73.66 42.2148 0)
 			(effects
 				(font
@@ -10793,7 +10793,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a6609dee-337a-4d0f-ac4f-d489d03082a7")
-		(property "Reference" "C14"
+		(property "Reference" "C18"
 			(at 271.78 91.4399 0)
 			(effects
 				(font
@@ -10847,7 +10847,7 @@
 		(instances
 			(project "Beacon_and_eggs"
 				(path "/8792c0a0-2ad2-47f4-a55d-c9a646f00347"
-					(reference "C14")
+					(reference "C18")
 					(unit 1)
 				)
 			)
@@ -11114,7 +11114,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" ""
 			(at 102.87 51.1048 0)
 			(effects
 				(font
@@ -11247,7 +11247,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" ""
 			(at 161.29 23.1648 0)
 			(effects
 				(font
@@ -11446,7 +11446,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
+		(property "Footprint" ""
 			(at 104.14 168.148 90)
 			(effects
 				(font
@@ -11646,7 +11646,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_SPST_PTS810"
+		(property "Footprint" ""
 			(at 31.75 31.75 0)
 			(effects
 				(font
@@ -11852,7 +11852,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_SPST_PTS810"
+		(property "Footprint" ""
 			(at 69.85 26.67 0)
 			(effects
 				(font
@@ -12270,7 +12270,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" ""
 			(at 102.87 66.3448 0)
 			(effects
 				(font
@@ -12406,7 +12406,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Buzzer_Beeper:MagneticBuzzer_PUI_SMT-1028-T-2-R"
+		(property "Footprint" ""
 			(at 126.365 154.94 90)
 			(effects
 				(font
@@ -12475,7 +12475,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
+		(property "Footprint" ""
 			(at 46.228 30.48 90)
 			(effects
 				(font
@@ -12674,7 +12674,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" ""
 			(at 102.87 94.2848 0)
 			(effects
 				(font
@@ -12808,7 +12808,7 @@
 				)
 			)
 		)
-		(property "Footprint" "2025_26-UVR-Beacon:MSOP8_MC_MCH"
+		(property "Footprint" "MSOP8_MC_MCH"
 			(at 211.328 73.152 0)
 			(effects
 				(font

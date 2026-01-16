@@ -6912,11 +6912,7 @@
 				)
 			)
 		)
-<<<<<<< HEAD
 		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
-=======
-		(property "Footprint" ""
->>>>>>> d71297d536e460db326c5e6cb6c4b498fcd97f6b
 			(at 109.22 119.6848 0)
 			(effects
 				(font
@@ -7187,11 +7183,7 @@
 				)
 			)
 		)
-<<<<<<< HEAD
 		(property "Footprint" "Package_DFN_QFN:TDFN-8-1EP_3x2mm_P0.5mm_EP1.3x1.4mm"
-=======
-		(property "Footprint" "MSOP8_MC_MCH"
->>>>>>> d71297d536e460db326c5e6cb6c4b498fcd97f6b
 			(at 212.598 118.872 0)
 			(effects
 				(font
@@ -7477,11 +7469,7 @@
 				(justify right)
 			)
 		)
-<<<<<<< HEAD
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-=======
-		(property "Footprint" ""
->>>>>>> d71297d536e460db326c5e6cb6c4b498fcd97f6b
 			(at 28.448 80.01 90)
 			(effects
 				(font
@@ -7859,11 +7847,7 @@
 				)
 			)
 		)
-<<<<<<< HEAD
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-=======
-		(property "Footprint" ""
->>>>>>> d71297d536e460db326c5e6cb6c4b498fcd97f6b
 			(at 31.75 41.148 90)
 			(effects
 				(font
@@ -7996,11 +7980,7 @@
 				)
 			)
 		)
-<<<<<<< HEAD
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-=======
-		(property "Footprint" ""
->>>>>>> d71297d536e460db326c5e6cb6c4b498fcd97f6b
 			(at 148.59 34.5948 0)
 			(effects
 				(font
@@ -8477,11 +8457,7 @@
 				)
 			)
 		)
-<<<<<<< HEAD
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-=======
-		(property "Footprint" ""
->>>>>>> d71297d536e460db326c5e6cb6c4b498fcd97f6b
 			(at 52.07 130.048 90)
 			(effects
 				(font
@@ -8681,11 +8657,7 @@
 				)
 			)
 		)
-<<<<<<< HEAD
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-=======
-		(property "Footprint" ""
->>>>>>> d71297d536e460db326c5e6cb6c4b498fcd97f6b
 			(at 40.64 65.0748 0)
 			(effects
 				(font
@@ -8957,11 +8929,7 @@
 				(justify left)
 			)
 		)
-<<<<<<< HEAD
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-=======
-		(property "Footprint" ""
->>>>>>> d71297d536e460db326c5e6cb6c4b498fcd97f6b
 			(at 24.638 80.01 90)
 			(effects
 				(font
@@ -9276,11 +9244,7 @@
 				)
 			)
 		)
-<<<<<<< HEAD
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-=======
-		(property "Footprint" ""
->>>>>>> d71297d536e460db326c5e6cb6c4b498fcd97f6b
 			(at 161.29 34.5948 0)
 			(effects
 				(font
@@ -9883,11 +9847,7 @@
 				)
 			)
 		)
-<<<<<<< HEAD
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-=======
-		(property "Footprint" ""
->>>>>>> d71297d536e460db326c5e6cb6c4b498fcd97f6b
 			(at 35.56 47.2948 0)
 			(effects
 				(font
@@ -10025,11 +9985,7 @@
 				)
 			)
 		)
-<<<<<<< HEAD
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-=======
-		(property "Footprint" ""
->>>>>>> d71297d536e460db326c5e6cb6c4b498fcd97f6b
 			(at 64.008 30.48 90)
 			(effects
 				(font
@@ -10096,11 +10052,7 @@
 				)
 			)
 		)
-<<<<<<< HEAD
 		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
-=======
-		(property "Footprint" ""
->>>>>>> d71297d536e460db326c5e6cb6c4b498fcd97f6b
 			(at 148.59 23.1648 0)
 			(effects
 				(font
@@ -10170,11 +10122,7 @@
 				(justify left)
 			)
 		)
-<<<<<<< HEAD
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-=======
-		(property "Footprint" ""
->>>>>>> d71297d536e460db326c5e6cb6c4b498fcd97f6b
 			(at 108.712 170.18 90)
 			(effects
 				(font
@@ -10311,11 +10259,7 @@
 				)
 			)
 		)
-<<<<<<< HEAD
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-=======
-		(property "Footprint" ""
->>>>>>> d71297d536e460db326c5e6cb6c4b498fcd97f6b
 			(at 52.07 124.968 90)
 			(effects
 				(font
@@ -10448,11 +10392,7 @@
 				)
 			)
 		)
-<<<<<<< HEAD
 		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
-=======
-		(property "Footprint" ""
->>>>>>> d71297d536e460db326c5e6cb6c4b498fcd97f6b
 			(at 102.87 79.0448 0)
 			(effects
 				(font
@@ -10519,11 +10459,7 @@
 				)
 			)
 		)
-<<<<<<< HEAD
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-=======
-		(property "Footprint" ""
->>>>>>> d71297d536e460db326c5e6cb6c4b498fcd97f6b
 			(at 73.66 42.2148 0)
 			(effects
 				(font
@@ -11095,11 +11031,7 @@
 				)
 			)
 		)
-<<<<<<< HEAD
 		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
-=======
-		(property "Footprint" ""
->>>>>>> d71297d536e460db326c5e6cb6c4b498fcd97f6b
 			(at 102.87 51.1048 0)
 			(effects
 				(font
@@ -11232,11 +11164,7 @@
 				)
 			)
 		)
-<<<<<<< HEAD
 		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
-=======
-		(property "Footprint" ""
->>>>>>> d71297d536e460db326c5e6cb6c4b498fcd97f6b
 			(at 161.29 23.1648 0)
 			(effects
 				(font
@@ -11435,11 +11363,7 @@
 				)
 			)
 		)
-<<<<<<< HEAD
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-=======
-		(property "Footprint" ""
->>>>>>> d71297d536e460db326c5e6cb6c4b498fcd97f6b
 			(at 104.14 168.148 90)
 			(effects
 				(font
@@ -12196,11 +12120,7 @@
 				)
 			)
 		)
-<<<<<<< HEAD
 		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
-=======
-		(property "Footprint" ""
->>>>>>> d71297d536e460db326c5e6cb6c4b498fcd97f6b
 			(at 102.87 66.3448 0)
 			(effects
 				(font
@@ -12405,11 +12325,7 @@
 				(justify right)
 			)
 		)
-<<<<<<< HEAD
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-=======
-		(property "Footprint" ""
->>>>>>> d71297d536e460db326c5e6cb6c4b498fcd97f6b
 			(at 46.228 30.48 90)
 			(effects
 				(font
@@ -12608,11 +12524,7 @@
 				)
 			)
 		)
-<<<<<<< HEAD
 		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
-=======
-		(property "Footprint" ""
->>>>>>> d71297d536e460db326c5e6cb6c4b498fcd97f6b
 			(at 102.87 94.2848 0)
 			(effects
 				(font
@@ -12746,11 +12658,8 @@
 				)
 			)
 		)
-<<<<<<< HEAD
 		(property "Footprint" "Package_DFN_QFN:TDFN-8-1EP_3x2mm_P0.5mm_EP1.3x1.4mm"
-=======
-		(property "Footprint" "MSOP8_MC_MCH"
->>>>>>> d71297d536e460db326c5e6cb6c4b498fcd97f6b
+
 			(at 211.328 73.152 0)
 			(effects
 				(font

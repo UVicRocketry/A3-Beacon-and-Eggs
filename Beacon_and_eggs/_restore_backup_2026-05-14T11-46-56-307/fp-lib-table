@@ -1,0 +1,7 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Project KiCad Library")(type "KiCad")(uri "${KIPRJMOD}/Project KiCad Library.pretty")(options "")(descr ""))
+  (lib (name "VHF_UHF_Modules")(type "KiCad")(uri "${KIPRJMOD}/KiCad Libraries/kicad-VHF-UHF-modules-main/VHF_UHF_Modules.pretty")(options "")(descr ""))
+  (lib (name "NTA4151PT1G")(type "KiCad")(uri "${KIPRJMOD}/KiCad Libraries/NTA4151PT1G")(options "")(descr ""))
+  (lib (name "footprints")(type "KiCad")(uri "${KIPRJMOD}/KiCad Libraries/ul_MIC5528-3-3YMX-TR/KiCADv6/footprints.pretty")(options "")(descr ""))
+)

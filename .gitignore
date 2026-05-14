@@ -41,7 +41,6 @@ fp-lib-table-bak
 *.csv
 *.zip
 *.pdf
-*.step
 *.stp
 
 # Simulation files

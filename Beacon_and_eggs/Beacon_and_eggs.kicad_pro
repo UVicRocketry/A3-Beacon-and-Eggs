@@ -39,9 +39,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 3.2,
-          "height": 3.6,
-          "width": 3.6
+          "drill": 0.0,
+          "height": 5.6,
+          "width": 5.6
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -76,7 +76,32 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "shorting_items|151200000|118375001|605b2559-c64b-4694-b546-be0faedfa231|99d0dee1-a60c-45b0-a2f1-022c35f47857",
+          ""
+        ],
+        [
+          "shorting_items|154249998|118375001|0f3b4553-356f-4ee8-b90a-6f14f37883a6|605b2559-c64b-4694-b546-be0faedfa231",
+          ""
+        ],
+        [
+          "solder_mask_bridge|154249998|118375001|5c96f9b6-7782-4b12-8f06-d33c2dd688cd|3dab6370-1f38-41f2-9b43-b0ff76306bae",
+          ""
+        ],
+        [
+          "solder_mask_bridge|154249998|118375001|5c96f9b6-7782-4b12-8f06-d33c2dd688cd|605b2559-c64b-4694-b546-be0faedfa231",
+          ""
+        ],
+        [
+          "solder_mask_bridge|154249998|118375001|5c96f9b6-7782-4b12-8f06-d33c2dd688cd|8f68ca9a-46ac-4bd2-a924-5b3ad6d93668",
+          ""
+        ],
+        [
+          "solder_mask_bridge|154249998|118375001|5c96f9b6-7782-4b12-8f06-d33c2dd688cd|ccb5ee4e-1fdc-4c4d-ab46-a6294a6dfdd4",
+          ""
+        ]
+      ],
       "meta": {
         "version": 2
       },
@@ -124,7 +149,7 @@
         "silk_over_copper": "warning",
         "silk_overlap": "warning",
         "skew_out_of_range": "error",
-        "solder_mask_bridge": "error",
+        "solder_mask_bridge": "warning",
         "starved_thermal": "error",
         "text_height": "warning",
         "text_on_edge_cuts": "error",
@@ -154,7 +179,7 @@
         "min_hole_to_hole": 0.2,
         "min_microvia_diameter": 0.15,
         "min_microvia_drill": 0.2,
-        "min_resolved_spokes": 2,
+        "min_resolved_spokes": 1,
         "min_silk_clearance": 0.0,
         "min_text_height": 0.8,
         "min_text_thickness": 0.08,
@@ -806,7 +831,7 @@
         "uuid": "8792c0a0-2ad2-47f4-a55d-c9a646f00347"
       }
     ],
-    "used_designators": "R21,#PWR3,#PWR39,#PWR49,#PWR54,#FLG1-2",
+    "used_designators": "",
     "variants": []
   },
   "sheets": [

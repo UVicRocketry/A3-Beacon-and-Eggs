@@ -39,9 +39,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.0,
-          "height": 5.6,
-          "width": 5.6
+          "drill": 0.254,
+          "height": 0.508,
+          "width": 0.508
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -86,19 +86,11 @@
           ""
         ],
         [
-          "solder_mask_bridge|154249998|118375001|5c96f9b6-7782-4b12-8f06-d33c2dd688cd|3dab6370-1f38-41f2-9b43-b0ff76306bae",
-          ""
-        ],
-        [
           "solder_mask_bridge|154249998|118375001|5c96f9b6-7782-4b12-8f06-d33c2dd688cd|605b2559-c64b-4694-b546-be0faedfa231",
           ""
         ],
         [
           "solder_mask_bridge|154249998|118375001|5c96f9b6-7782-4b12-8f06-d33c2dd688cd|8f68ca9a-46ac-4bd2-a924-5b3ad6d93668",
-          ""
-        ],
-        [
-          "solder_mask_bridge|154249998|118375001|5c96f9b6-7782-4b12-8f06-d33c2dd688cd|ccb5ee4e-1fdc-4c4d-ab46-a6294a6dfdd4",
           ""
         ]
       ],
@@ -534,7 +526,7 @@
     "classes": [
       {
         "bus_width": 12,
-        "clearance": 0.2,
+        "clearance": 0.15,
         "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.2,

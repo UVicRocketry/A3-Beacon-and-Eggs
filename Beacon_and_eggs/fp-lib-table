@@ -5,4 +5,5 @@
 	(lib (name "NTA4151PT1G") (type "KiCad") (uri "${KIPRJMOD}/KiCad Libraries/NTA4151PT1G") (options "") (descr ""))
 	(lib (name "footprints") (type "KiCad") (uri "${KIPRJMOD}/KiCad Libraries/ul_MIC5528-3-3YMX-TR/KiCADv6/footprints.pretty") (options "") (descr ""))
 	(lib (name "BQ24070RHLR") (type "KiCad") (uri "${KIPRJMOD}/KiCad Libraries/BQ24070RHLR.pretty") (options "") (descr ""))
+	(lib (name "Footprint Images") (type "KiCad") (uri "${KIPRJMOD}/KiCad Libraries/Footprint Images") (options "") (descr ""))
 )

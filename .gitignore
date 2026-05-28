@@ -27,21 +27,6 @@ _autosave-*
 sym-lib-table-bak
 fp-lib-table-bak
 
-# Output files
-*.gbr
-*.gtp
-*.gbp
-*.gts
-*.gbs
-*.gto
-*.gbo
-*.drl
-*.map
-*.pos
-*.csv
-*.zip
-*.pdf
-*.stp
 
 # Simulation files
 *.cir

@@ -76,24 +76,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        [
-          "shorting_items|151200000|118375001|605b2559-c64b-4694-b546-be0faedfa231|99d0dee1-a60c-45b0-a2f1-022c35f47857",
-          ""
-        ],
-        [
-          "shorting_items|154249998|118375001|0f3b4553-356f-4ee8-b90a-6f14f37883a6|605b2559-c64b-4694-b546-be0faedfa231",
-          ""
-        ],
-        [
-          "solder_mask_bridge|154249998|118375001|5c96f9b6-7782-4b12-8f06-d33c2dd688cd|605b2559-c64b-4694-b546-be0faedfa231",
-          ""
-        ],
-        [
-          "solder_mask_bridge|154249998|118375001|5c96f9b6-7782-4b12-8f06-d33c2dd688cd|8f68ca9a-46ac-4bd2-a924-5b3ad6d93668",
-          ""
-        ]
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },

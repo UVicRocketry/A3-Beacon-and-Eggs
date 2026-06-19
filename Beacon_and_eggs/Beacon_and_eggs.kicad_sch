@@ -10360,7 +10360,7 @@
 				)
 			)
 		)
-		(property "DigiKey_Part_Number" "GRM155R60J475ME87D"
+		(property "DigiKey_Part_Number" "GRM035R60J475ME15J"
 			(at 105.41 208.2799 0)
 			(hide yes)
 			(show_name no)
@@ -11472,7 +11472,7 @@
 				)
 			)
 		)
-		(property "DigiKey_Part_Number" "C2012X5R0J336M125AC"
+		(property "DigiKey_Part_Number" "GRM155R60J156ME15D"
 			(at 120.65 62.2299 0)
 			(hide yes)
 			(show_name no)
@@ -11482,6 +11482,17 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+			)
+		)
+		(property "Untitled Field" ""
+			(at 116.84 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"

@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'rda1846'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "RDA Microelectronics", "rda1846" (!) = "", "QFN50P500X500X100-33N", "Quad Flat No-Lead", "rda1846", "", "GATE", "https://datasheetspdf.com/mobile/1473066/RDA/RDA1846/1", "1 mm"
+END_PART
+
+END.

@@ -1,0 +1,9 @@
+Manufacturer=RDA Microelectronics
+PartNumber=rda1846
+PartCategory=Integrated Circuit
+PackageCategory=Quad Flat No-Lead
+PinCount=33
+Version=1.1
+Released=2022-11-23 10:01:01
+Downloaded=2026-08-25 22:47:39
+3D=Y

@@ -1,0 +1,16 @@
+.rda1846 :1 ;GATE
+QFN50P500X500X100-33N
+*STM IC
+*NGS
+*PLB 1="AVDD_1" 2="SCLK" 3="SDIO" 4="AVDD_2" 5="XTAL1" 6="XTAL2" 7="MODE" 8="SENB" 9="AFOUT" 10="NC_1" 11="MIC_IN" 12="CC" 13="AVDD_3" 14="NC_2" 15="RFIN" 16="AVDD_4" 17="NC_3" 18="RFOUT" 19="NC_4" 20="NC_5" 21="AVDD_5" 22="PABIAS" 23="AVDD_6" 24="PDN" 25="GPIO7" 26="GPIO6" 27="GPIO5" 28="GPIO4" 29="GPIO3" 30="GPIO2" 31="GPIO1" 32="GPIO0" 33="GND"
+*MXP 33
+*DFN rda1846
+~!Arrow Part Number (rda1846)
+~!Arrow Price/Stock (-)
+~!Manufacturer_Name (RDA Microelectronics)
+~!Manufacturer_Part_Number (rda1846)
+~!Link Datasheet (https://datasheetspdf.com/mobile/1473066/RDA/RDA1846/1)
+~!Height (1mm)
+~!3D_Model (rda1846)
+rda1846
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 13.1!U 14.1!U 15.1!U 16.1!U 24.1!U 23.1!U 22.1!U 21.1!U 20.1!U 19.1!U 18.1!U 17.1!U 33.1!U 32.1!U 31.1!U 30.1!U 29.1!U 28.1!U 27.1!U 26.1!U 25.1!U 

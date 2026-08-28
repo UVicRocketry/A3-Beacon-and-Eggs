@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "rda1846"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2022-11-23-10:01:01)
+    (mountForm default
+        (footprintRef "QFN50P500X500X100-33N")
+        (spec "System")
+    )
+)

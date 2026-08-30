@@ -29,11 +29,9 @@ stitched to the main recovery shock chord.
 
 A condensed second revision. Planned:
 
-- Switch STM32F411 for a Pico
-- No accelerometer
-- Replace the SA868S module with a simple CW transmitter at 144 MHz, keyed
-  directly from an Si5351A clock generator
-- Smaller board as a result of all of the above -> smaller battery
+- Moved to low frequency LoRa Module with Semtech's SX1278
+- Move to a smaller Battery
+- PIC MCU to interface with transmitter
 
 WIP
 
